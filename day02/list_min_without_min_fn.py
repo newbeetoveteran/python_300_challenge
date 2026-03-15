@@ -1,5 +1,5 @@
 #Finding minimum in a list
-#Concept: using 
+#Concept: using for loop and user input
 
 static_list = []
 
