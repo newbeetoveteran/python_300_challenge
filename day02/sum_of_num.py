@@ -1,5 +1,5 @@
 #sum of all numbers
-
+#concept : using list and loop
 static_list = []
 
 for num in range(3):
