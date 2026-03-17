@@ -74,7 +74,7 @@ Concepts Covered:
 | ------ | ------------- | ------ |
 | Day 1  | Lists         | ✅      |
 | Day 2  | Lists         | ✅      |
-| Day 3  | Lists         | ⬜      |
+| Day 3  | Lists         | ✅      |
 | Day 4  | Lists         | ⬜      |
 | Day 5  | Lists         | ⬜      |
 | Day 6  | Lists         | ⬜      |
