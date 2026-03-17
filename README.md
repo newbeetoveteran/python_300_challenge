@@ -38,7 +38,7 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 **0 / 300 Problems Completed**
 
 
-[░░░░░░░░░░░░░░░░░░░░] 0%
+[█░░░░░░░░░░░░░░░░░░] 6%
 
 ## 📘 All 300 Questions
 
