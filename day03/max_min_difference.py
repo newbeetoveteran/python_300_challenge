@@ -1,5 +1,5 @@
 #Find difference between max and min
-
+#Concept : using loops to find max and min and printing the difference
 
 
 original_list = []
