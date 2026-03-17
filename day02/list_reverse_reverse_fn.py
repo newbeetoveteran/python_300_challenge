@@ -1,4 +1,5 @@
 #Reverse a list
+#concept: using reversed() function
 
 
 static_list = []
