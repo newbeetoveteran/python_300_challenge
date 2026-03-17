@@ -116,12 +116,39 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 ---
 
 ## 📏 Challenge Rules
+⚠️ Rule: No Excuses Mode
 
-1. Solve **5–10 problems daily**
-2. Spend **10–15 min thinking before help**
-3. Push code daily
-4. Focus on logic
+- Minimum: 5 problems/day
+- Target: 10 problems/day
+- If you fall behind → increase next day workload
+- Final requirement: **300 problems completed by Day 30 (non-negotiable)**
 
 ---
 
 ## 📁 Folder Structure
+
+python-300-challenge
+│
+├── README.md
+├── day01
+├── day02
+├── ...
+└── day30
+
+
+---
+
+## 👨‍💻 Author
+
+GitHub: https://github.com/newbeetoveteran
+
+---
+
+## 🏁 Final Goal
+
+- 300 problems solved
+- Strong Python fundamentals
+- Better problem-solving
+- Consistent GitHub streak
+
+**Consistency beats talent. 💻🔥**
