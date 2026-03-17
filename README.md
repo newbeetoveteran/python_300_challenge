@@ -149,6 +149,5 @@ GitHub: https://github.com/newbeetoveteran
 - 300 problems solved
 - Strong Python fundamentals
 - Better problem-solving
-- Consistent GitHub streak
 
 **Consistency beats talent. 💻🔥**
