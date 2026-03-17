@@ -1,5 +1,5 @@
 #Remove duplicate
-#concept: 
+#concept: using "not in" to find unique elements and printing the unique list
 
 original_list = []
 
