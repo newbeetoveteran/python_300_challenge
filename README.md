@@ -127,13 +127,13 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 
 ## 📁 Folder Structure
 
-python-300-challenge
-│
-├── README.md
-├── day01
-├── day02
-├── ...
-└── day30
+-python-300-challenge
+  │
+  ├── README.md
+  ├── day01
+  ├── day02
+  ├── ...
+  └── day30
 
 
 ---
