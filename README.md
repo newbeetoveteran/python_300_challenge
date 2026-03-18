@@ -38,7 +38,7 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 **0 / 300 Problems Completed**
 
 
-[█░░░░░░░░░░░░░░░░░░] 6%
+[███░░░░░░░░░░░░░░░░░] 11%
 
 ## 📘 All 300 Questions
 
@@ -53,7 +53,7 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 | Day 1 | Lists | ✅ | Day 16 | Dictionaries | ⬜ |
 | Day 2 | Lists | ✅ | Day 17 | Dictionaries | ⬜ |
 | Day 3 | Lists | ✅ | Day 18 | Dictionaries | ⬜ |
-| Day 4 | Lists | ⬜ | Day 19 | Dictionaries | ⬜ |
+| Day 4 | Lists | ✅ | Day 19 | Dictionaries | ⬜ |
 | Day 5 | Lists | ⬜ | Day 20 | Dictionaries | ⬜ |
 | Day 6 | Lists | ⬜ | Day 21 | Dictionaries | ⬜ |
 | Day 7 | Lists | ⬜ | Day 22 | Functions | ⬜ |
