@@ -1,4 +1,4 @@
-# Flatten a nested list
+# Create a nested list
 # Concept : append() and loops
 
 # taking user input for size of the list
