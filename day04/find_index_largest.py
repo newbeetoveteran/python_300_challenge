@@ -1,5 +1,5 @@
 #  Find index of largest
-#  Concept: Using max() and loop
+#  Concept: Using max(), loop and enumerate()
 
 user_list = []
 for i in range(4):
