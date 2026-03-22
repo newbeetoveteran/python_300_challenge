@@ -20,7 +20,11 @@ else:
 # Second for loop checks if element at a given index is larger than the next element 
 
     for i in range(list_size):
-        for j in range(list_size - i - 1):                           # list_size - 1 because index start at 0
+
+# list_size - 1 because we compare j with j+1,
+# so j must stop before the last index to avoid index error
+
+        for j in range(list_size - i - 1):                           
             if static_list[j] > static_list[j+1]:
                 temp = static_list[j]
                 static_list[j], static_list[j+1] = static_list[j+1], static_list[j]
