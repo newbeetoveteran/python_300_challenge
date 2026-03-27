@@ -38,7 +38,7 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 **0 / 300 Problems Completed**
 
 
-[██████░░░░░░░░░░░░] 20%
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **28%**
 
 ## 📘 All 300 Questions
 
@@ -58,7 +58,7 @@ A **30-day challenge** to master Python fundamentals by solving **10 programs ev
 | Day 6 | Lists | ✅ | Day 21 | Dictionaries | ⬜ |
 | Day 7 | Lists | ✅ | Day 22 | Functions | ⬜ |
 | Day 8 | Strings | ✅ | Day 23 | Functions | ⬜ |
-| Day 9 | Strings | ⬜ | Day 24 | Functions | ⬜ |
+| Day 9 | Strings | ✅ | Day 24 | Functions | ⬜ |
 | Day 10 | Strings | ⬜ | Day 25 | Functions | ⬜ |
 | Day 11 | Strings | ⬜ | Day 26 | Functions | ⬜ |
 | Day 12 | Strings | ⬜ | Day 27 | File Handling | ⬜ |
